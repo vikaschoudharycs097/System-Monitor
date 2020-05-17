@@ -1,0 +1,6 @@
+## Naming Convention
+1. Namespace: All lowercase letters, multiple words are separated by underscore(_)
+2. Variable/Object: Same as Namespace
+3. Function: camelCase
+4. Class: PascalCase
+5. Constant: All uppercase letters, multiple words are separated by underscore(_)
