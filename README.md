@@ -16,3 +16,6 @@ System monitor for Linux Operating system developed using C++ language. This is 
 2. Using terminal go into downloaded repo
 3. make build # Command to build the project
 4. Run it: ./build/monitor
+
+## License
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
